@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Laura",
+    "countryFlag": "india",
+    "profileImage": "laura",
+    "categoryId": "1"
+  },
+  {
+    "id": "2",
+    "name": "Arlene",
+    "countryFlag": "usa",
+    "profileImage": "arlene",
+    "categoryId": "3"
+  },
+  {
+    "id": "3",
+    "name": "Philip",
+    "countryFlag": "pakistan",
+    "profileImage": "philip",
+    "categoryId": "1"
+  },
+  {
+    "id": "4",
+    "name": "Cristie",
+    "countryFlag": "india",
+    "profileImage": "cristie",
+    "categoryId": "5"
+  },
+  {
+    "id": "5",
+    "name": "Debra",
+    "countryFlag": "argentina",
+    "profileImage": "debra",
+    "categoryId": "1"
+  },
+  {
+    "id": "6",
+    "name": "Diannie",
+    "countryFlag": "canada",
+    "profileImage": "diannie",
+    "categoryId": "1"
+  },
+  {
+    "id": "7",
+    "name": "Kyle",
+    "countryFlag": "india",
+    "profileImage": "kyle",
+    "categoryId": "2"
+  },
+  {
+    "id": "1",
+    "name": "Laura",
+    "countryFlag": "india",
+    "profileImage": "laura",
+    "categoryId": "4"
+  },
+  {
+    "id": "2",
+    "name": "Arlene",
+    "countryFlag": "usa",
+    "profileImage": "arlene",
+    "categoryId": "1"
+  },
+  {
+    "id": "3",
+    "name": "Philip",
+    "countryFlag": "india",
+    "profileImage": "diannie",
+    "categoryId": "5"
+  }
+]

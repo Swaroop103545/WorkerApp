@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "Worker_Role": "Astrologer",
+    "icon": "astrology"
+  },
+  {
+    "id": "2",
+    "Worker_Role": "Assistant",
+    "icon": "assistant"
+  },
+  {
+    "id": "3",
+    "Worker_Role": "Makeup",
+    "icon": "makeup"
+  },
+  {
+    "id": "4",
+    "Worker_Role": "Mehandi",
+    "icon": "mehendi"
+  },
+  {
+    "id": "5",
+    "Worker_Role": "Photograhy",
+    "icon": "photography"
+  }
+]

@@ -1,0 +1,21 @@
+// assets/images.js
+export const IMAGES = {
+  astrology: require('./astrology.png'),
+  assistant: require('./assistant.png'),
+  makeup: require('./makeup.png'),
+  mehendi: require('./mehendi.png'),
+  photography: require('./photography.png'),
+  arlene: require('./arlene.jpg'),
+  cristie: require('./cristie.jpg'),
+  debra: require('./debra.jpg'),
+  diannie: require('./diannie.jpg'),
+  kyle: require('./kyle.jpg'),
+  laura: require('./laura.jpg'),
+  philip: require('./philip.jpg'),
+  argentina: require('./argentina.png'),
+  canada: require('./canada.png'),
+  india: require('./india.png'),
+  pakistan: require('./pakistan.png'),
+  usa: require('./usa.png'),
+  filter: require('./filter.png'),
+};
